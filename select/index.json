@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "喜劇",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-13T14:31:57.931035Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "喜劇",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/01_喜劇_星野源.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "喜劇",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/02_喜劇_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "喜劇\u0000",
+      "artist": "星野源\u0000",
+      "has_synced": true,
+      "path": "select/03_喜劇\u0000_星野源\u0000.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "喜劇",
+      "artist": "gen hoshino",
+      "has_synced": true,
+      "path": "select/04_喜劇_gen_hoshino.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "喜劇",
+      "artist": "星野源 feat. DJ Jazzy Jeff & Kaidi Tatham",
+      "has_synced": true,
+      "path": "select/05_喜劇_星野源_feat._DJ_Jazzy_Jeff_&_Kaidi_Tatham.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "喜劇 - Comedy",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/06_喜劇_-_Comedy_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "喜劇",
+      "artist": "星野源 feat. DJ Jazzy Jeff & Kaidi Tatham",
+      "has_synced": true,
+      "path": "select/07_喜劇_星野源_feat._DJ_Jazzy_Jeff_&_Kaidi_Tatham.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "喜劇 (Comedy)",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/08_喜劇_(Comedy)_星野源.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "喜劇",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_喜劇_星野源.txt"
+    }
+  ]
+}
